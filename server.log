@@ -1,0 +1,4 @@
+[2025-09-04 11:00:05] INFO: Server started
+[2025-09-04 11:05:20] CRITICAL: Out of disk space
+[2025-09-04 11:10:00] ERROR: Connection timeout
+[2025-09-04 11:12:15] WARNING: High CPU usage
